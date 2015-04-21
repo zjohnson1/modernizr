@@ -1,18 +1,18 @@
 
-html.svg #svg{
+html.touch .phone{
 	width: 50%;
 	background: yellow;
 }
 
-html.no-svg #svg{
+html.no-touck .phone{
 	display: none;
 }
 
 
-html.svg #png{
+html.touch .home{
 	display: none;
 }
 
-html.no-svg #png{
+html.no-touch .home{
 	background: red;
 }
