@@ -15,4 +15,5 @@ html.touch .home{
 
 html.no-touch .home{
 	background: red;
+	display: inline;
 }
