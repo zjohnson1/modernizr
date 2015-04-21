@@ -1,19 +1,19 @@
 
-html.touch .phone{
+html.touch #phone{
 	width: 50%;
 	background: yellow;
 }
 
-html.no-touck .phone{
+html.no-touck #phone{
 	display: none;
 }
 
 
-html.touch .home{
+html.touch #home{
 	display: none;
 }
 
-html.no-touch .home{
+html.no-touch #home{
 	background: red;
 	display: inline;
 }
